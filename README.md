@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iffprove
-- 👀 I’m interested in learning to python
+- 👀 Aspiring web developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me  - via github
