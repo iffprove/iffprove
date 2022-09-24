@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iffprove
-- 👀 Aspiring web developer
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Marek I aka @iffprove
+- 👀 
+- 🌱 I’m currently learning java, Python and web development
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me  - via github
 
